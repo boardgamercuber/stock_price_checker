@@ -1,0 +1,5 @@
+# GitHub Page 에는 동작에 필요한 Page 파일만 올린다 (나머지는 모두 제외)
+/*
+!/.gitignore
+!/index.html
+!/stock_data_checker.html
